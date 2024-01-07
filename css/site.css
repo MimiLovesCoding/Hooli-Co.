@@ -12,7 +12,8 @@
         .main-container {
             height: 100%;
             width: 100%;
-            background-color: #1d539d;
+            background-color: yellow;
+            opacity: 0.3;
             color: white;
             padding-top: 6%;
             box-sizing: border-box;
@@ -69,12 +70,12 @@
 		
 		.step-text a {
             color: white;
-			text-decoration: none;
+        	text-decoration: none;
         }
 		
-		.step-text a:hover {
+		.step-text a: hover {
             color: white;
-			text-decoration:underline;
+	    text-decoration: underline;
         }
 
         .content {
